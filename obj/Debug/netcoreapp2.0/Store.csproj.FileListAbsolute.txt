@@ -1,0 +1,16 @@
+C:\Users\n01405820\source\repos\Store\Store\obj\Debug\netcoreapp2.0\Store.csprojAssemblyReference.cache
+C:\Users\n01405820\source\repos\Store\Store\obj\Debug\netcoreapp2.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\n01405820\source\repos\Store\Store\obj\Debug\netcoreapp2.0\Store.AssemblyInfoInputs.cache
+C:\Users\n01405820\source\repos\Store\Store\obj\Debug\netcoreapp2.0\Store.AssemblyInfo.cs
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\Store.deps.json
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\Store.runtimeconfig.json
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\Store.runtimeconfig.dev.json
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\Store.dll
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\Store.pdb
+C:\Users\n01405820\source\repos\Store\Store\obj\Debug\netcoreapp2.0\Store.dll
+C:\Users\n01405820\source\repos\Store\Store\obj\Debug\netcoreapp2.0\Store.pdb
+C:\Users\n01405820\source\repos\Store\Store\obj\Debug\netcoreapp2.0\Store.genruntimeconfig.cache
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\package-lock.json
+C:\Users\n01405820\source\repos\Store\Store\bin\Debug\netcoreapp2.0\package.json

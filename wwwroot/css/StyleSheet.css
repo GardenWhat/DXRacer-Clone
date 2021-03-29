@@ -1,0 +1,46 @@
+﻿.navbar-dark {
+	background: #333;
+}
+
+
+
+.icon-margin {
+	margin-right: 15px;
+}
+
+.image {
+	width: 30%;
+	position: relative;
+}
+
+.image:hover {
+	transform: scale(2);
+	border: 1px;
+	border-style: solid;
+	border-color: #808080;
+	z-index: 1;
+}
+
+.inline {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+.bold {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.red {
+	color: red;
+}
+
+.red:hover {
+	background-color: red;
+	color: #fff;
+}
+
+.selected {
+	background-color: red;
+	color: #fff;
+}
